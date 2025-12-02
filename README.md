@@ -46,6 +46,8 @@
 - [Claude Code 安装指南](https://docs.claude.com/docs/claude-code)
 - [Codex CLI 安装指南](https://developers.openai.com/codex/quickstart)
 
+> [!IMPORTANT]
+> 请确保您的claude code版本在v2.0.56以上；codex cli版本在v0.61.0以上！
 
 请确保您已成功安装[uv工具](https://docs.astral.sh/uv/getting-started/installation/)：
 
